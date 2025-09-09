@@ -44,13 +44,13 @@ Proje hakkında sorularınız, geri bildirimleriniz veya işbirliği tekliflerin
 -   **E-posta:** saractalhayusuf@gmail.com
 -   **LinkedIn:** www.linkedin.com/in/yusuf-talha-saraç-752445262
 
----
+
 
 ## Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
 
----
+
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/zafmgd">Yusuf Talha Saraç</a>
